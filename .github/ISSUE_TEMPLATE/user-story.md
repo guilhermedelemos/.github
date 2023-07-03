@@ -4,7 +4,9 @@ about: User stories are short, simple descriptions of a feature told from the pe
   of the person who desires the new capability, usually a user or customer of the
   system.
 title: User story
+labels: ''
 assignees: ''
+
 ---
 
 # Description
